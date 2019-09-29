@@ -1,0 +1,10 @@
+C:\Users\Valhalla\source\repos\PuertoSerie\obj\Debug\PuertoSerie.csprojAssemblyReference.cache
+C:\Users\Valhalla\source\repos\PuertoSerie\obj\Debug\PuertoSerie.Form1.resources
+C:\Users\Valhalla\source\repos\PuertoSerie\obj\Debug\PuertoSerie.Properties.Resources.resources
+C:\Users\Valhalla\source\repos\PuertoSerie\obj\Debug\PuertoSerie.csproj.GenerateResource.cache
+C:\Users\Valhalla\source\repos\PuertoSerie\obj\Debug\PuertoSerie.csproj.CoreCompileInputs.cache
+C:\Users\Valhalla\source\repos\PuertoSerie\bin\Debug\PuertoSerie.exe.config
+C:\Users\Valhalla\source\repos\PuertoSerie\bin\Debug\PuertoSerie.exe
+C:\Users\Valhalla\source\repos\PuertoSerie\bin\Debug\PuertoSerie.pdb
+C:\Users\Valhalla\source\repos\PuertoSerie\obj\Debug\PuertoSerie.exe
+C:\Users\Valhalla\source\repos\PuertoSerie\obj\Debug\PuertoSerie.pdb
