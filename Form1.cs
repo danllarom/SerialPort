@@ -10,6 +10,8 @@ using System.Windows.Forms;
 using System.IO.Ports;
 using System.Threading;
 
+using Microsoft.FlightSimulator.SimConnect;
+
 namespace PuertoSerie
 {
     
@@ -94,7 +96,7 @@ namespace PuertoSerie
 
         private void BackgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
-
+            //https://www.prepar3d.com/SDKv4/sdk/simconnect_api/simconnect_api_overview.html
         }
 
         private void BackgroundWorker2_DoWork(object sender, DoWorkEventArgs e)

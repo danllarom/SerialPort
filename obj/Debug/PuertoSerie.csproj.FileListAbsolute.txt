@@ -8,3 +8,5 @@ C:\Users\Valhalla\source\repos\PuertoSerie\bin\Debug\PuertoSerie.exe
 C:\Users\Valhalla\source\repos\PuertoSerie\bin\Debug\PuertoSerie.pdb
 C:\Users\Valhalla\source\repos\PuertoSerie\obj\Debug\PuertoSerie.exe
 C:\Users\Valhalla\source\repos\PuertoSerie\obj\Debug\PuertoSerie.pdb
+C:\Users\Valhalla\source\repos\PuertoSerie\bin\Debug\Microsoft.FlightSimulator.SimConnect.dll
+C:\Users\Valhalla\source\repos\PuertoSerie\obj\Debug\PuertoSerie.csproj.CopyComplete
